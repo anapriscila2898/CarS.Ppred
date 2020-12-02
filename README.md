@@ -25,4 +25,4 @@ Login or signup in order to create virtual app. You can either connect your gith
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## SOURCE OF THE DATASET
-1. https://www.youtube.com/redirect?v=y4EMEpEnElQ&event=video_description&redir_token=QUFFLUhqbW9ZaGU0OHJnVWZQVS04eHhsSV9wa0lId3QtUXxBQ3Jtc0ttWkZSZVBkVUxxcGVOUnJFbGpQZnRQUThHZkkzTDg0V0lyR1hMR25malBpdTNhY1NsT2RYUlUta0dLUWx1aHVvak9NVWhVUHVBZ3daY0cxMUJTVDdqSlMzaUhDVkJ6Y05jMWlKd3I1aWRvWFc3Q2JXNA%3D%3D&q=https%3A%2F%2Fwww.kaggle.com%2Fnikhilmittal%2Fflight-fare-prediction-mh%2F
+1. https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
